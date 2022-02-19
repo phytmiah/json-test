@@ -1,0 +1,17 @@
+[
+  {
+    "DataType": "BasicUint",
+    "Value": {
+      "Value": "99",
+      "Quality": "5678&&&",
+      "QualityGood": true,
+      "Timestamp": "2022-02-1800"
+    },
+    "OriginalObjectOrPropertyId": "NEO-INSTANCE-001",
+    "ObjectId": "NEO-TEST-POINT001",
+    "PropertyName": "Value",
+    "AttributeId": "PROP.ATTRIBUTE.001",
+    "ErrorCode": 0,
+    "IsArray": false
+  }
+]
